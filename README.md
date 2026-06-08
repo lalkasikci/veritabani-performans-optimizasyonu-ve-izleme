@@ -1,0 +1,1 @@
+# veritabani-performans-optimizasyonu-ve-izleme
